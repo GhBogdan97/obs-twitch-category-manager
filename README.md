@@ -51,3 +51,5 @@ To get the channel id, navigate to Twitch -> Settings -> Channel and Videos <br 
 
 Click on "Show" under the "Primary Stream key" and copy the first set of numbers: <br /><br />
 ![Channel Id](./Screenshots/ChannelId.png)
+
+As a final step, save the settings by clicking on the "Save" button

@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/Debug
+/TwitchApplication/Debug
+/TwitchApplication/Release
+/TwitchApplication/x64
+/.vs/ObsPluginTest/v16
+/.vs/ObsPlugin/v16

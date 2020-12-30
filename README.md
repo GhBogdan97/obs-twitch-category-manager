@@ -41,11 +41,11 @@ First time openning the OBS a pop-up will inform you to navigate to the settings
 
 Navigate to the "Settings" tab of the plugin. To setup the plugin you have to fill in the following information:
 
-1. Access token - Used while interacting with Twitch
+1. Access token - Used while interacting with Twitch<br />
 To get an access token, simply click on the "Get Token" button. It will redirect you to the GitHub page of this plugin. The token will be present in the URL, as shown below: <br /><br />
 ![Token](./Screenshots/TokenExample.png)
 
-2. Channel Id - Used to identify the channel while interacting with Twitch
+2. Channel Id - Used to identify the channel while interacting with Twitch<br />
 To get the channel id, navigate to Twitch -> Settings -> Channel and Videos <br /><br />
 ![Channel Id](./Screenshots/ChannelIdSource.png)
 

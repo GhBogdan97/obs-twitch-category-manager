@@ -1,0 +1,1 @@
+# obs-twitch-category-manager

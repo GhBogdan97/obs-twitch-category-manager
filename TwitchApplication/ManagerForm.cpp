@@ -107,6 +107,7 @@ void ManagerForm::GameUpdated(ProcessModel^ process)
 		if (categoriesFound->Count > 1)
 		{
 			lstCategories->Items->Clear();
+			lblChannelStatusValue->Text = "Multiple categories found:";
 			for each (System::String ^ category in categoriesFound)
 			{
 				lstCategories->Items->Add(category);

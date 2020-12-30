@@ -13,7 +13,7 @@ TwitchService::TwitchService()
 System::String^ TwitchService::GetAuthUrl()
 {
 	System::String^ twitchUrl = "https://id.twitch.tv/oauth2/authorize";
-	System::String^ redirectUrl = "https%3A%2F%2Fgithub.com%2FGhBogdan97%2Fxamarin-forms-samples";
+	System::String^ redirectUrl = "https%3A%2F%2Fgithub.com%2FGhBogdan97%2Fobs-twitch-category-manager";
 	std::ostringstream oss;
 	return twitchUrl + "?client_id=" + twitchClientId + "&redirect_uri=" + redirectUrl + "&response_type=token&scope=channel_editor";
 }

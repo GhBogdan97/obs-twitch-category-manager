@@ -52,4 +52,8 @@ To get the channel id, navigate to Twitch -> Settings -> Channel and Videos <br 
 Click on "Show" under the "Primary Stream key" and copy the first set of numbers: <br /><br />
 ![Channel Id](./Screenshots/ChannelId.png)
 
-As a final step, save the settings by clicking on the "Save" button
+Save the settings by clicking on the "Save" button. <br />
+
+As a final step,  from the "Channel" tab, click on "Start monitoring" to start the functionality. (Please note that the monitoring will start automatically in the future.)
+
+
